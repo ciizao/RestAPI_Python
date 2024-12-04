@@ -26,7 +26,7 @@ Before running this project, make sure you have the following components install
 ### 1️⃣ Clone the Repository  
 Use the following command to clone the project from GitHub:  
 ```
-https://github.com/ciizao/RestAPI_Python.git
+git clone https://github.com/ciizao/RestAPI_Python.git
 ```
 ### 2️⃣ Navigate to the Project Directory
 Create a virtual environment to manage the project dependencies:
